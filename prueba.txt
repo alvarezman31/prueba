@@ -1,16 +1,11 @@
  El volumen de la unidad C no tiene etiqueta.
- El n£mero de serie del volumen es: 4E07-50BC
+ El n£mero de serie del volumen es: BECD-4063
 
- Directorio de C:\sistemas\gits
+ Directorio de C:\sistemas\prueba\prueba\prueba
 
-30/12/2018  15:22    <DIR>          .
-30/12/2018  15:22    <DIR>          ..
-30/12/2018  15:22                 0 prueba.txt
-               1 archivos              0 bytes
-               2 dirs  10.211.753.984 bytes libres
-
-agregado 07-01-2019
-
-segunda modificación
-
-tercera modificacion
+07-01-2019  18:19    <DIR>          .
+07-01-2019  18:19    <DIR>          ..
+07-01-2019  18:19             2.089 ayuda.txt
+07-01-2019  18:20                 0 prueba.txt
+               2 archivos          2.089 bytes
+               2 dirs  119.606.996.992 bytes libres
